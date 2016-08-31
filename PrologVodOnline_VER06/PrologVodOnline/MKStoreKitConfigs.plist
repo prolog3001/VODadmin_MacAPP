@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Consumables</key>
+	<dict/>
+	<key>Others</key>
+	<array>
+		<string>com.macprolog.admin51004_04inapp</string>
+		<string>com.macprolog.admin51004_02inapp</string>
+		<string>com.macprolog.admin51004_03inapp</string>
+		<string>com.macprolog.admin51004_00inapp</string>
+		<string>com.macprolog.admin51004_05inapp</string>
+		<string>com.macprolog.admin51004_06inapp</string>
+		<string>com.macprolog.admin51004_07inapp</string>
+		<string>com.macprolog.admin51004_08inapp</string>
+		<string>com.macprolog.admin51004_09inapp</string>
+		<string>com.macprolog.admin51004_11inapp</string>
+		<string>com.macprolog.admin51004_12inapp</string>
+	</array>
+	<key>SharedSecret</key>
+	<string></string>
+</dict>
+</plist>

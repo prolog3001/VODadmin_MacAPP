@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>get this app</key>
+	<string>Get this App</string>
+	<key>would like get this app</key>
+	<string>Would you like to get this app?</string>
+	<key>more apps title</key>
+	<string>More products</string>
+	<key>decide to upgrade</key>
+	<string>Upgrading?.. Great!</string>
+	<key>upgrade now</key>
+	<string>Upgrade now</string>
+	<key>not now</key>
+	<string>Not now</string>
+	<key>restore</key>
+	<string>Restore purchases</string>
+	<key>select a lesson</key>
+	<string>Select a lesson or chapter</string>
+	<key>click lesson</key>
+	<string>Click selected lesson again to enter it</string>
+	<key>item not available</key>
+	<string>This item is available only after purchase</string>
+	<key>downloading course</key>
+	<string>Patience please... preparing learning items</string>
+	<key>no internet</key>
+	<string>Ooops! Please check your internet</string>
+	<key>no internet ok</key>
+	<string>OK</string>
+    <key>would like to upgarde for</key>
+    <string>Would you like to upgrade this product for</string>
+</dict>
+</plist>

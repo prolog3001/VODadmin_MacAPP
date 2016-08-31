@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prolog ids</key>
+	<array>
+		<string>27</string>
+		<string>25</string>
+		<string>26</string>
+		<string>35</string>
+		<string>28</string>
+		<string>29</string>
+		<string>30</string>
+		<string>31</string>
+		<string>32</string>
+		<string>33</string>
+		<string>260</string>
+	</array>
+	<key>show more apps after splash</key>
+	<false/>
+	<key>show banner</key>
+	<false/>
+	<key>banner link</key>
+	<string>http://www.prologdigital.com/</string>
+	<key>RTL</key>
+	<false/>
+	<key>apple ID for rating</key>
+	<string>1148542008</string>
+</dict>
+</plist>
