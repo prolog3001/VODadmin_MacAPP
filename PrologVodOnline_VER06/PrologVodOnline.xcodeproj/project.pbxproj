@@ -342,7 +342,7 @@
 		1B8F61B01D5CA3D900F446F7 /* ItemInfoScreen.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ItemInfoScreen.m; sourceTree = "<group>"; };
 		1B8F61B41D5CBBBB00F446F7 /* CustomFontLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomFontLabel.h; sourceTree = "<group>"; };
 		1B8F61B51D5CBBBB00F446F7 /* CustomFontLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomFontLabel.m; sourceTree = "<group>"; };
-		1BC5A2B41D58D98000C891EC /* SPANISH.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SPANISH.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1BC5A2B41D58D98000C891EC /* HEBREW.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HEBREW.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1BC5A2B71D58D98000C891EC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		1BC5A2B81D58D98000C891EC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		1BC5A2BB1D58D98000C891EC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -573,7 +573,7 @@
 		1BC5A2B51D58D98000C891EC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1BC5A2B41D58D98000C891EC /* SPANISH.app */,
+				1BC5A2B41D58D98000C891EC /* HEBREW.app */,
 				1BC5A2CD1D58D98000C891EC /* PrologVodOnlineTests.xctest */,
 				1BC5A2D81D58D98000C891EC /* PrologVodOnlineUITests.xctest */,
 			);
@@ -834,9 +834,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1BC5A2B31D58D98000C891EC /* SPANISH */ = {
+		1BC5A2B31D58D98000C891EC /* HEBREW */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1BC5A2E11D58D98000C891EC /* Build configuration list for PBXNativeTarget "SPANISH" */;
+			buildConfigurationList = 1BC5A2E11D58D98000C891EC /* Build configuration list for PBXNativeTarget "HEBREW" */;
 			buildPhases = (
 				1BC5A2B01D58D98000C891EC /* Sources */,
 				1BC5A2B11D58D98000C891EC /* Frameworks */,
@@ -847,9 +847,9 @@
 			);
 			dependencies = (
 			);
-			name = SPANISH;
+			name = HEBREW;
 			productName = PrologVodOnline;
-			productReference = 1BC5A2B41D58D98000C891EC /* SPANISH.app */;
+			productReference = 1BC5A2B41D58D98000C891EC /* HEBREW.app */;
 			productType = "com.apple.product-type.application";
 		};
 		1BC5A2CC1D58D98000C891EC /* PrologVodOnlineTests */ = {
@@ -929,7 +929,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1BC5A2B31D58D98000C891EC /* SPANISH */,
+				1BC5A2B31D58D98000C891EC /* HEBREW */,
 				1BC5A2CC1D58D98000C891EC /* PrologVodOnlineTests */,
 				1BC5A2D71D58D98000C891EC /* PrologVodOnlineUITests */,
 			);
@@ -1248,12 +1248,12 @@
 /* Begin PBXTargetDependency section */
 		1BC5A2CF1D58D98000C891EC /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 1BC5A2B31D58D98000C891EC /* SPANISH */;
+			target = 1BC5A2B31D58D98000C891EC /* HEBREW */;
 			targetProxy = 1BC5A2CE1D58D98000C891EC /* PBXContainerItemProxy */;
 		};
 		1BC5A2DA1D58D98000C891EC /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 1BC5A2B31D58D98000C891EC /* SPANISH */;
+			target = 1BC5A2B31D58D98000C891EC /* HEBREW */;
 			targetProxy = 1BC5A2D91D58D98000C891EC /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -1479,7 +1479,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1BC5A2E11D58D98000C891EC /* Build configuration list for PBXNativeTarget "SPANISH" */ = {
+		1BC5A2E11D58D98000C891EC /* Build configuration list for PBXNativeTarget "HEBREW" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1BC5A2E21D58D98000C891EC /* Debug */,
